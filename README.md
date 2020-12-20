@@ -2,4 +2,4 @@
 
 Hii Github,
 
-I like autoamtion testing
+I like automation testing
